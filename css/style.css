@@ -11,7 +11,7 @@ body {
   width: 800px;
   margin: 0 auto;
   background: white;
-  font-size: 19px;
+  font-size: 14px;
 }
 #header {
   background: #88364e;
@@ -20,6 +20,7 @@ body {
 h1 {
   float: left;
   margin: 15px;
+  font-size: 23px;
 }
 #search-bar {
   padding: 10px 20px 0;
