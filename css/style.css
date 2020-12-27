@@ -100,8 +100,8 @@ h1 {
 #error-message {
   background: #def1d8;
   color: rgb(51, 83, 51);
-  font-size: 30px;
-  padding: 10px;
+  font-size: 25px;
+  padding: 10px 20px;
   margin: 10px;
   display: none;
   position: fixed;
